@@ -1,0 +1,24 @@
+name: Impact_Kits
+version: 1.0-SNAPSHOT
+author: Joemeister
+main: me.impact.impact_kits.Impact_Kits
+description: Plugin to manage Kits on our kitPVP server
+website: www.innovativegamers.net
+softdepend: [PlaceholderAPI, WorldGuard]
+api-version: 1.13
+
+commands:
+  impactkits:
+    description: Main command.
+    aliases: [ik, impact-kits]
+  kit:
+    description: Select kits.
+  kitspawn:
+    description: Teleports you to the spawn location.
+  kits:
+    description: Displays all available kits.
+  stats:
+    description: Displays current player stats
+  createnpc:
+    description: creates npc with desired name
+    usage: /createnpc [name]
