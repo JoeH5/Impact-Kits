@@ -14,7 +14,7 @@ _If you would like to help develop this plugin, please contact me._
 * Data Storage through .yml files
 * Basic Purchasing System
 
-# **TODO**
+# **TODO:**
 * More advanced NPCs and Shops
   * Fully customizable through a config file
 * Item upgrades with custom enchants
